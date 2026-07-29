@@ -1,23 +1,20 @@
 <div align="center"> 
 <picture>
     <source
-      width="512px"
+      width="206px"
       media="(prefers-color-scheme: dark)"
       srcset="https://github.com/yuliskov/SmartTube/blob/master/smarttubetv/src/ststable/res/mipmap-nodpi/app_icon.png?raw=true"
     />
     <img 
-      width="512px"
+      width="206px"
       src="https://github.com/yuliskov/SmartTube/blob/master/smarttubetv/src/ststable/res/mipmap-nodpi/app_icon.png?raw=true"
      alt="SmartTube"/>
 </picture>
 </div> 
 
 &nbsp;
-<p align="center">
-  <a href="https://github.com/yuliskov/SmartTube/releases" title="Download SmartTube">
-    <img src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/download-morphe.svg" alt="Download SmartTube" width="240"/>
-  </a>
-</p>
+[<img src="images/badge_fdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/app.smarttube.fdroid/)
+[<img src="images/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/yuliskov/SmartTube/releases)
 &nbsp;
 
 ## 🧩 This is SmartTube
