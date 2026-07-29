@@ -13,8 +13,8 @@
 </div> 
 
 &nbsp;
-[<img src="images/badge_fdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/app.smarttube.fdroid/)
-[<img src="images/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/yuliskov/SmartTube/releases)
+[<img src="https://github.com/yuliskov/SmartTube/blob/master/images/badge_fdroid.png?raw=true" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/app.smarttube.fdroid/)
+[<img src="https://github.com/yuliskov/SmartTube/blob/master/images/badge_github.png?raw=true" alt="Get it on GitHub" height="80">](https://github.com/yuliskov/SmartTube/releases)
 &nbsp;
 
 ## 🧩 This is SmartTube
