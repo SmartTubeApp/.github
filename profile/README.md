@@ -42,8 +42,6 @@ It allows to browse media content with your own rules on Android TV.
 
 ## 👥 Community
 
-SmartTube is an independent project, its main repository located here: [SmartTube](https://github.com/yuliskov/SmartTube).
-
-[Official Site](https://smarttubeapp.github.io)
+SmartTube is an independent project, its [main repository located here](https://github.com/yuliskov/SmartTube). [Official Site](https://smarttubeapp.github.io)
 
 Issues, ideas, and contributions are always welcome.
